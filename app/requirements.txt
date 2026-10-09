@@ -1,0 +1,8 @@
+gradio
+scikit-learn
+joblib
+huggingface_hub
+transformers
+torch
+safetensors
+sentencepiece
