@@ -1,0 +1,8 @@
+,group,n,error_rate,ci_low,ci_high,macro_F1
+mix_group,english only,22,0.409,0.182,0.591,0.518
+mix_group,mixed,359,0.315,0.27,0.365,0.677
+mix_group,no English cue,3557,0.247,0.234,0.262,0.739
+has_tone_mark,False,808,0.265,0.234,0.297,0.712
+has_tone_mark,True,3130,0.251,0.236,0.267,0.73
+neg_strong,False,3006,0.238,0.224,0.252,0.744
+neg_strong,True,932,0.307,0.277,0.339,0.684
